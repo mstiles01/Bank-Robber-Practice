@@ -1,0 +1,11 @@
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/bin/Debug/netcoreapp3.0/RobbingBank
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/bin/Debug/netcoreapp3.0/RobbingBank.deps.json
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/bin/Debug/netcoreapp3.0/RobbingBank.runtimeconfig.json
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/bin/Debug/netcoreapp3.0/RobbingBank.runtimeconfig.dev.json
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/bin/Debug/netcoreapp3.0/RobbingBank.dll
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/bin/Debug/netcoreapp3.0/RobbingBank.pdb
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/obj/Debug/netcoreapp3.0/RobbingBank.csprojAssemblyReference.cache
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/obj/Debug/netcoreapp3.0/RobbingBank.AssemblyInfoInputs.cache
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/obj/Debug/netcoreapp3.0/RobbingBank.AssemblyInfo.cs
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/obj/Debug/netcoreapp3.0/RobbingBank.dll
+/Users/michaelstiles/workspace/RobbingBank/RobbingBank/obj/Debug/netcoreapp3.0/RobbingBank.pdb
